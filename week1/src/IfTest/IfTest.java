@@ -22,7 +22,7 @@ Print Weird if the number is weird; otherwise, print Not Weird.
  */
 
 
-public class Solution {
+public class IfTest {
     
     // declare scanner object instance constant that provides methods to 
     // read and access data entered in the System
